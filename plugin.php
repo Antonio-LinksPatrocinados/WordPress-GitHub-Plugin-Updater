@@ -46,7 +46,7 @@ function github_plugin_updater_test_init() {
 
 		$config = array(
 			'slug' => plugin_basename( __FILE__ ),
-			'proper_folder_name' => 'github-updater',
+			'proper_folder_name' => 'wordpress-github-plugin-updater',
 			'api_url' => 'https://api.github.com/repos/Antonio-LinksPatrocinados/WordPress-GitHub-Plugin-Updater',
 			'raw_url' => 'https://raw.github.com/Antonio-LinksPatrocinados/WordPress-GitHub-Plugin-Updater/master',
 			'github_url' => 'https://github.com/Antonio-LinksPatrocinados/WordPress-GitHub-Plugin-Updater',
